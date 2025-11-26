@@ -37,7 +37,7 @@ inps[1].addEventListener('keyup', (e) => {
 
 
 btn.addEventListener('click', (e) => {
-    fetch('https://backend-f6fz.onrender.com/data', {
+    fetch('https://backend-insta-galochka-1.onrender.com/data', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
